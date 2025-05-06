@@ -1,0 +1,43 @@
+WEEK 1 : Two Pointers and Fast & Slow pointers
+Introduction
+
+two pointers (left and right) used to traverse ds from different ends,
+fast and slow pointers-fast 2steps ,slow 1 step used in circular ds for finding loops and in linear ds for finding middle
+
+Pair with Target Sum (easy) LeetCode
+
+Remove Duplicates (easy) LeetCode LeetCode LeetCode LeetCode LeetCode
+
+Squaring a Sorted Array (easy) LeetCode
+
+Triplet Sum to Zero (medium) LeetCode
+
+Triplet Sum Close to Target (medium) LeetCode
+
+Triplets with Smaller Sum (medium) LintCode
+
+Subarrays with Product Less than a Target (medium) LeetCode
+
+Dutch National Flag Problem (medium) CoderByte
+
+Problem Challenge 1: Quadruple Sum to Target (medium) Leetcode
+
+Problem Challenge 2: Comparing Strings containing Backspaces (medium) Leetcode
+
+Problem Challenge 3: Minimum Window Sort (medium) Leetcode Ideserve
+
+Introduction emre.me
+
+LinkedList Cycle (easy) Leetcode
+
+Start of LinkedList Cycle (medium) Leetcode
+
+Happy Number (medium) Leetcode
+
+Middle of the LinkedList (easy) Leetcode
+
+Problem Challenge 1: Palindrome LinkedList (medium) Leetcode
+
+Problem Challenge 2: Rearrange a LinkedList (medium) Leetcode
+
+Problem Challenge 3: Cycle in a Circular Array (hard) Leetcode
